@@ -2,6 +2,5 @@
 #### 👩‍💻 Frontend developer
 #### 🗂 Information architect
 
-I love open source communities and am passionate about accessibility.
-
-Remote | Based in RI 🌊
+🌐 https://www.devinmarieb.com/
+🌊 Based in the greater Boston region
